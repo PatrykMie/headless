@@ -6,7 +6,7 @@
 Installation
 ==============
 
-Follow the standard process of a TYPO3 installation (see :ref:`t3install:start`).
+Follow the standard process of a TYPO3 installation (see :ref:`t3start11:install`).
 After TYPO3 is running, we can continue installing the headless extension:
 
 #. **Install and activate the extension** with Composer `composer require friendsoftypo3/headless` (recommended),
